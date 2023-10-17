@@ -1,6 +1,6 @@
-## Problemas do círculo.
+## Problemas dos círculos.
 
-Esse problema tem o objetivo de provocar os amigos e colegas de computação que gostam de matemática com algum nível de desafio para aprender assuntos que normalmente não aprenderia com dados do dia-a-dia.
+Esse problema tem o objetivo de provocar os amigos e colegas de computação que gostam de matemática com algum nível de desafio para aprender assuntos que normalmente não aprenderiam com os problemas e dados do dia-a-dia.
 
 Comigo a experiência foi ótima:
 - Retomei os meus conhecimentos de trigonomia
