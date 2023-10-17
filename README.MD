@@ -8,8 +8,7 @@ Comigo a experiência foi ótima:
 - Cálculo Numérico
 - GnuPlot
 
-Mão clonem esse repositório antes de tentar encontrar a solução:
-
+NÃO clonem esse repositório ou veja a resposta antes de tentar encontrar a solução:
 
 Todas as ferramentas são liberdas.
 
