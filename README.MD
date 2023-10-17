@@ -17,4 +17,4 @@ Hoje (2023) o chatgpt mal conseguiu fazer as contas e o do google, mal pensou o 
 
 Bom trabalho e divirtam-se.
 
-![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
+![Problema para resolver](https://raw.githubusercontent.com/spedison/problema_circulos/main/scripts/problema.png)
